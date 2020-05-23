@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Alfred-Coffee-1-hex { color: #F24B6A; }
+.Alfred-Coffee-2-hex { color: #3C4359; }
+.Alfred-Coffee-3-hex { color: #646F3A; }
+.Alfred-Coffee-4-hex { color: #BFA584; }
+.Alfred-Coffee-5-hex { color: #684123; }
+
+/* Color Theme Swatches in RGBA */
+.Alfred-Coffee-1-rgba { color: rgba(242, 75, 105, 1); }
+.Alfred-Coffee-2-rgba { color: rgba(59, 66, 89, 1); }
+.Alfred-Coffee-3-rgba { color: rgba(100, 110, 58, 1); }
+.Alfred-Coffee-4-rgba { color: rgba(191, 165, 131, 1); }
+.Alfred-Coffee-5-rgba { color: rgba(103, 65, 35, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Alfred-Coffee-1-hsla { color: hsla(348, 86, 62, 1); }
+.Alfred-Coffee-2-hsla { color: hsla(225, 19, 29, 1); }
+.Alfred-Coffee-3-hsla { color: hsla(72, 31, 33, 1); }
+.Alfred-Coffee-4-hsla { color: hsla(33, 31, 63, 1); }
+.Alfred-Coffee-5-hsla { color: hsla(26, 49, 27, 1); }
